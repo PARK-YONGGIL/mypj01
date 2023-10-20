@@ -1,2 +1,5 @@
 # mypj01
-project01
+
+## 설명
+
+TodoList를 만들어보자
